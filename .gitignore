@@ -1,0 +1,4 @@
+**/output
+*.csv
+form_letter.html
+form_letter.erb
